@@ -7,7 +7,7 @@ stage("test")
 {
 steps
 {
-sh "echo Hello Team"
+sh 'echo Hello Team'
 }
 }
 }
